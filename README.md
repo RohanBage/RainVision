@@ -28,7 +28,7 @@ Prediction: Press the "Predict" button, and RainVision will display the rainfall
 
 🔧 Installation
 Clone the repository:
-git clone https://github.com/Arpittgaikwad29/RainVision.git
+git clone https://github.com/RohanBage/RainVision.git
 Install the required dependencies:
 pip install -r requirements.txt
 Start the application: python app.py
@@ -55,10 +55,9 @@ feel free to fork the repository and submit a pull request.
 You can also open an issue for any bug reports or feature requests.
 
 🧑‍💻 Author
-Arpit Gaikwad
+Rohan Bage
 
-GitHub: Arpit's GitHub
-LinkedIn: Arpit on LinkedIn
+
 🌐 Live Demo
 You can explore a live demo of RainVision here.
 
